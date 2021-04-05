@@ -1,0 +1,4 @@
+- 👋 Hi, I’m CRAZY
+- 👀 I’m interested in reverse engineering
+- 🌱 I’m currently learning C++ and Assembler
+- 📫 How to reach me? Discord: CRAZY#0001
